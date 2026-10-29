@@ -13,6 +13,9 @@ status: SKELETON
 > relative to `<SourceRoot>/`. If a note disagrees with the code, the code wins and the note
 > gets fixed.
 >
+> **New to this vault? Read [[Start Here]].** It tells you how to open the vault, find a note,
+> and read a note.
+>
 > **Before you add or change a note, read [[Vault Rules]].** It is the one place the rules for
 > this vault live. Start a new note from [[Note Template]].
 >
@@ -47,9 +50,11 @@ any folder and notes can move to a new folder with no broken link.
 
 > rules, templates, logs and pointers
 
+- [[Start Here]] -- how to open, navigate and read this vault; read it first
 - [[Vault Rules]] -- the rules for this vault; read before your first note
 - [[Note Template]] -- the list of note templates and the rules that are easy to forget
-- [[Building a New Vault]] -- how to make a new vault in this style from this template
+- [[Building a New Vault]] -- how to make a vault from this template, for a new or an existing project
+- [[Example Prompts]] -- prompts to give an agent for each vault task
 - [[Drift Sweep Log]] -- when the vault was last checked against which commit
 - [[Review Log]] -- one row for each review record, and the open deviation ledger
 - [[External References]] -- pointer note for documents that live outside the vault

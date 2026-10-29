@@ -8,7 +8,7 @@ status: VERIFIED
 # Vault Rules
 
 How to use this vault, how to add to it, and how to keep it correct. Read this note before you
-write your first note. The text is in ASD-STE100 Simplified Technical English.
+write your first note. To learn how to open and navigate the vault, read [[Start Here]]. The text is in ASD-STE100 Simplified Technical English.
 
 Replace each `<placeholder>` when you make a new vault. [[Building a New Vault]] gives the
 steps.
